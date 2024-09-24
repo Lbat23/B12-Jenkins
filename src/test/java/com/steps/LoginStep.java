@@ -25,9 +25,9 @@ public class LoginStep {
 //		driver = new SafariDriver();
 //		
 		
-		//Firfox Window User
-	//	WebDriverManager.firefoxdriver().setup();
-		//driver = new FirefoxDriver();
+		//Firefox Window User
+		WebDriverManager.firefoxdriver().setup();
+		driver = new FirefoxDriver();
 		
 		//Edge-WIndows User
 //		WebDriverManager.edgedriver().setup();
