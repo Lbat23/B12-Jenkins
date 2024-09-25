@@ -21,6 +21,7 @@ public class LoginStep {
 	public void user_navigates_to_login_page(String url) throws InterruptedException {
 		System.out.println("Navigating to application");
 		System.out.println("SMOKETEST444");
+		System.out.println("PushingExample44");
 
 		// Mac Users
 //		WebDriverManager.safaridriver().setup();
